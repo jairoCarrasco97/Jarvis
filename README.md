@@ -1,6 +1,6 @@
 #Asistente: Jarvis.
 
-Jarvis es un asistente personal modular ejecutado sobre una Raspberry Pi 4, diseñado no solo para ayudarte en tareas cotidianas, sino también para ofrecer una experiencia de interacción más cercana y personalizada.
+Jarvis es un asistente personal modular ejecutado sobre una Raspberry Pi 4 basado en Ollama, diseñado no solo para ayudarte en tareas cotidianas, sino también para ofrecer una experiencia de interacción más cercana y personalizada.
 
 El sistema permite comunicarse mediante voz y texto, utilizar modelos de inteligencia artificial locales o en la nube, interactuar con dispositivos domóticos y representar visualmente su estado interno a través de un sistema de emociones simuladas en tiempo real.
 
