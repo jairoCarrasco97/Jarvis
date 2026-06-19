@@ -63,12 +63,36 @@ Como resultado, se genera un estado emocional contextual que es enviado tanto a 
 Gracias a este enfoque, las emociones dejan de depender únicamente de palabras concretas y pasan a surgir del contexto completo de la conversación. La principal desventaja de este modo es el aumento del consumo de recursos y de la latencia, ya que cada interacción requiere una consulta adicional al modelo de lenguaje para calcular el estado emocional antes de generar la respuesta final.
 
 * Interfaz principal
-* Chat fullscreen
-* Sistema de colores emocionales
-* Animaciones y efectos visuales
-* Sistema de ventanas y aplicaciones
-* Interfaz táctil
 
+La interfaz incluye información relevante como el estado actual de Jarvis, el modelo de IA activo, indicadores de actividad interna, notificaciones y accesos rápidos a las aplicaciones integradas. Además, incorpora un sistema táctil que permite controlar las funciones principales del asistente desde una única pantalla.
+
+Uno de los objetivos principales del proyecto es hacer visible aquello que normalmente permanece oculto en un asistente tradicional, permitiendo al usuario observar qué está procesando Jarvis, cómo se siente y qué está ocurriendo internamente en cada momento.
+
+
+* Chat fullscreen
+
+Además de la interfaz principal, Jarvis dispone de un modo de conversación a pantalla completa diseñado para mantener interacciones más cómodas y prolongadas, pudiendo elegir entre agrandar el chat actual, o uno nuevo a parte.
+
+Este modo muestra el historial completo de mensajes entre el usuario y Jarvis, conservando el estado emocional con el que fue generado cada mensaje mediante un sistema de colores persistente. De esta forma, es posible visualizar la evolución emocional de la conversación incluso tiempo después de que haya ocurrido.
+
+El chat fullscreen también incorpora la representación visual de Jarvis con indicadores de estado en tiempo real, manteniendo una experiencia coherente con el resto de la interfaz.
+
+
+* Sistema de colores emocionales
+
+Las emociones de Jarvis se representan visualmente mediante un sistema de colores dinámico que afecta a toda la interfaz. Cada estado emocional dispone de una identidad visual propia, permitiendo identificar de forma inmediata cómo se siente el asistente en cada momento.
+
+Estos colores se aplican a elementos como la representación de Jarvis, los indicadores de estado, las animaciones y el historial de conversaciones. Además, cada mensaje conserva permanentemente el color correspondiente a la emoción con la que fue generado, permitiendo visualizar la evolución emocional de una conversación incluso después de haber finalizado.
+
+El objetivo de este sistema es convertir las emociones en una parte visible de la experiencia, haciendo que el estado interno de Jarvis pueda interpretarse de forma rápida e intuitiva sin necesidad de leer información adicional.
+
+* Sistema de ventanas y aplicaciones
+
+Jarvis incorpora un sistema de ventanas integrado que permite ejecutar y gestionar distintas aplicaciones desde la propia interfaz principal.
+
+Cada aplicación puede abrirse, minimizarse y restaurarse de forma independiente, manteniendo siempre visible su estado dentro del sistema. Los iconos de la interfaz muestran de manera visual qué aplicaciones permanecen activas en cada momento, facilitando la gestión del espacio de trabajo.
+
+Este sistema permite ampliar las capacidades de Jarvis mediante herramientas específicas, manteniendo una experiencia unificada y totalmente integrada dentro de la interfaz del asistente.
 ---
 
 ## 2. Arquitectura del Sistema
