@@ -92,7 +92,7 @@ Jarvis incorpora un sistema de ventanas integrado que permite ejecutar y gestion
 
 Cada aplicación puede abrirse, minimizarse y restaurarse de forma independiente, manteniendo siempre visible su estado dentro del sistema. Los iconos de la interfaz muestran de manera visual qué aplicaciones permanecen activas en cada momento, facilitando la gestión del espacio de trabajo.
 
-Este sistema permite ampliar las capacidades de Jarvis mediante herramientas específicas, manteniendo una experiencia unificada y totalmente integrada dentro de la interfaz del asistente.
+
 ---
 
 ## 2. Arquitectura del Sistema
